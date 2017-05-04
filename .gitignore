@@ -1,0 +1,4 @@
+*.beam
+*.dump
+.DS_Store
+doc/Aufgabe3_mit_Folien.pdf
